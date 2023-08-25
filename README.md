@@ -1,1 +1,1 @@
-# learn-go-by-example
+learnGo
